@@ -23,7 +23,7 @@ function generatePost(name, description, ownerInfo){
                     <div class='petName'>
                         Name: `+name+`
                     </div>
-            
+
                     <div class='petDescription'>
                         Description: `+description+`
                     </div>
@@ -36,6 +36,6 @@ function generatePost(name, description, ownerInfo){
 
     </div>
     `);
-        
-   
+
+
 }
